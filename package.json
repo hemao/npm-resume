@@ -1,0 +1,14 @@
+{
+  "name": "hemao-resume",
+  "version": "1.0.0",
+  "description": "npm resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hema Omprakash",
+  "license": "ISC",
+  "bin": {
+    "showresume": "./index.js"
+  }
+}
